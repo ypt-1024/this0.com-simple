@@ -995,6 +995,11 @@ hexo-log@^4.0.1:
   dependencies:
     picocolors "^1.0.0"
 
+hexo-magnet@^1.0.9:
+  version "1.0.9"
+  resolved "https://registry.npmmirror.com/hexo-magnet/-/hexo-magnet-1.0.9.tgz"
+  integrity sha512-1bh6ZxwcZ4LgM8CkjRqimgke3yKsk2Jb49LBJ3Hc5RtPEzgxle1UHCNLOm7q80FDGRS33Zn6As2t39N8onFnnw==
+
 hexo-pagination@3.0.0:
   version "3.0.0"
   resolved "https://registry.npmmirror.com/hexo-pagination/-/hexo-pagination-3.0.0.tgz"
