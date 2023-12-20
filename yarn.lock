@@ -860,6 +860,13 @@ hexo-butterfly-envelope@^1.0.15:
   dependencies:
     pug "^3.0.0"
 
+hexo-butterfly-footer-beautify@^1.0.6:
+  version "1.0.6"
+  resolved "https://registry.npmmirror.com/hexo-butterfly-footer-beautify/-/hexo-butterfly-footer-beautify-1.0.6.tgz"
+  integrity sha512-zGA0b1BgL0CTmh3mKOvSh5TY6o3HW8tt/Xnhr+8g+I0MrzDcaBUXx9Ci2jyZRIctgFHS/0pcWd/Ro0Db2py42w==
+  dependencies:
+    pug "^3.0.0"
+
 hexo-cli@^4.3.0:
   version "4.3.1"
   resolved "https://registry.npmmirror.com/hexo-cli/-/hexo-cli-4.3.1.tgz"
