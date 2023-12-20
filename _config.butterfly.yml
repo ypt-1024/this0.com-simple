@@ -1056,3 +1056,20 @@ footer_beautify:
   swiper_css: https://this0.oss-cn-chengdu.aliyuncs.com/blog/base/css/swiper.min.css
   swiper_js: https://this0.oss-cn-chengdu.aliyuncs.com/blog/base/js/swiper.min.js
   swiperbdage_init_js: https://this0.oss-cn-chengdu.aliyuncs.com/blog/base/js/swiper_init.js
+
+#主题配置文件
+# see https://akilar.top/posts/8e1264d1/ 首页分类轮播图
+swiper:
+  enable: true # 开关
+  priority: 5 #过滤器优先权
+  enable_page: all # 应用页面
+  timemode: date #date/updated
+  layout: # 挂载容器类型
+    type: id
+    name: recent-posts
+    index: 0
+  default_descr: 再怎么看我也不知道怎么描述它的啦！
+  swiper_css: https://cdn.this0.com/blog/base/css/swiper.min.css #swiper css依赖 替换成自己的
+  swiper_js: https://cdn.this0.com/blog/base/js/swiper.min.js #swiper js依赖 替换成自己的
+  custom_css: https://cdn.this0.com/blog/base/css/swiperstyle.css # 适配主题样式补丁 替换成自己的
+  custom_js: https://cdn.this0.com/blog/base/js/swiper_init.js # swiper初始化方法 替换成自己的
